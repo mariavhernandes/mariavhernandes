@@ -2,7 +2,7 @@
 
 ## About me
 
-🎓 Studying Systems Analysis and Development
+🎓 Studying Systems Analysis and Development <img src="https://github.com/user-attachments/assets/49b1678f-1cf5-47d1-858c-872d49f2ec7f" align="right" data-canonical-src="https://github.com/user-attachments/assets/49b1678f-1cf5-47d1-858c-872d49f2ec7f" style="width: 400px; height:225px; display: inline-block;" data-target="animated-image.originalImage">
 
 📍 FATEC Americana
 
@@ -12,4 +12,9 @@
 
 👾 Improving one line at a time
 
-<img src="https://github.com/user-attachments/assets/49b1678f-1cf5-47d1-858c-872d49f2ec7f" align="right" data-canonical-src="https://github.com/user-attachments/assets/49b1678f-1cf5-47d1-858c-872d49f2ec7f" style="width: 350px; height:200px; display: inline-block;" data-target="animated-image.originalImage">
+![gmail]()
+
+## Social Medias
+<a href="https://instagram.com/mariavhernandes" rel="nofollow"><img src="https://github.com/user-attachments/assets/14e9de1a-4511-4be9-a1de-fd5bdbdf6312" alt="Instagram" data-canonical-src="https://github.com/user-attachments/assets/14e9de1a-4511-4be9-a1de-fd5bdbdf6312" style="width: 45px; height: 45px"></a>
+<a href="mailto:mariavictoriachernandes@gmail.com/?subject=Cart%C3%A3o%20Virtual" rel="nofollow"><img src="https://github.com/user-attachments/assets/20cd0d51-abf3-47ad-aefd-b06d10d1dc9a" style="width: 40px; height: 40px"></a>
+
