@@ -8,8 +8,6 @@
 
 🗽 Advanced English Speaker
 
-🐾 Dog Lover
-
 👾 Improving one line at a time
 
 
