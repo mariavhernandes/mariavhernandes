@@ -12,4 +12,4 @@
 
 👾 Improving one line at a time
 
-<img src="https://github.com/user-attachments/assets/cce436f0-9385-4820-83b8-48b209f371be" align="right" data-canonical-src="https://github.com/user-attachments/assets/cce436f0-9385-4820-83b8-48b209f371be" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/user-attachments/assets/49b1678f-1cf5-47d1-858c-872d49f2ec7f" align="right" data-canonical-src="https://github.com/user-attachments/assets/49b1678f-1cf5-47d1-858c-872d49f2ec7f" style="width: 350px; height:200px; display: inline-block;" data-target="animated-image.originalImage">
