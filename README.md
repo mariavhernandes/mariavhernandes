@@ -11,10 +11,3 @@
 🗽 Advanced English Speaker
 
 👾 Improving one line at a time
-
-
-
-## Social Medias
-<a href="https://instagram.com/mariavhernandes" rel="nofollow"><img src="https://github.com/user-attachments/assets/14e9de1a-4511-4be9-a1de-fd5bdbdf6312" alt="Instagram" data-canonical-src="https://github.com/user-attachments/assets/14e9de1a-4511-4be9-a1de-fd5bdbdf6312" style="width: 45px; height: 45px"></a>
-<a href="![gmail](mailto:mariavictoriachernandes@gmail.com/?)" rel="nofollow"><img src="https://github.com/user-attachments/assets/20cd0d51-abf3-47ad-aefd-b06d10d1dc9a" style="width: 40px; height: 40px"></a>
-
