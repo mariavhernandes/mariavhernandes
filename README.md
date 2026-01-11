@@ -13,7 +13,7 @@
 👾 Improving one line at a time
 
 ## My Skill Set
-<table width="100%"><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%">
   
 ### Frontend  
 <div align="center">  
