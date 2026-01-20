@@ -36,7 +36,8 @@
   <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
     <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
   </a>
-</div>  
+</div>
+
 
 <br>
 
