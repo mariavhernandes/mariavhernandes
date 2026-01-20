@@ -2,15 +2,15 @@
 
 ## About me
 
-🎓 Studying Systems Analysis and Development <img src="https://github.com/user-attachments/assets/f6ac507a-0e49-436e-92b0-fb66bd3439e7" align="right" data-canonical-src="https://github.com/user-attachments/assets/f6ac507a-0e49-436e-92b0-fb66bd3439e7" style="width:234px; height:240px; display: inline-block;" data-target="animated-image.originalImage">
+Studying Systems Analysis and Development <img src="https://github.com/user-attachments/assets/f6ac507a-0e49-436e-92b0-fb66bd3439e7" align="right" data-canonical-src="https://github.com/user-attachments/assets/f6ac507a-0e49-436e-92b0-fb66bd3439e7" style="width:234px; height:240px; display: inline-block;" data-target="animated-image.originalImage">
 
-📍 FATEC Americana
+FATEC Americana
 
-💻 Systems Development Technician
+Systems Development Technician
 
-🗽 Advanced English Speaker
+Advanced English Speaker
 
-👾 Improving one line at a time
+Improving one line at a time
 
 ## My Skill Set
 
