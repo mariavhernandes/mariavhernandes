@@ -2,7 +2,7 @@
 
 ## About me
 
-🎓 Studying Systems Analysis and Development <img src="https://github.com/user-attachments/assets/49b1678f-1cf5-47d1-858c-872d49f2ec7f" align="right" data-canonical-src="https://github.com/user-attachments/assets/49b1678f-1cf5-47d1-858c-872d49f2ec7f" style="width: 400px; height:225px; display: inline-block;" data-target="animated-image.originalImage">
+🎓 Studying Systems Analysis and Development <img src="https://github.com/user-attachments/assets/1659b377-5b1b-4884-b71d-18290f3647c4" align="right" data-canonical-src="https://github.com/user-attachments/assets/1659b377-5b1b-4884-b71d-18290f3647c4" style="width: 400px; height:225px; display: inline-block;" data-target="animated-image.originalImage">
 
 📍 FATEC Americana
 
