@@ -14,7 +14,7 @@
 
 ## My Skill Set
 
-<div align="center">
+<div align="right">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
   </a>
