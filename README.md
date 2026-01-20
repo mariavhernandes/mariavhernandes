@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=30&pause=1000&color=40a1ff&width=500&lines=Olá+Mundo%2C+Me+Chamo+Maria+Vict%C3%B3ria!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=30&pause=1000&color=40a1ff&width=500&lines=Olá+Mundo%2C+I'm+Maria+Vict%C3%B3ria!" alt="Typing SVG" /></a>
 
 ## About me
 
