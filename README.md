@@ -14,7 +14,7 @@ Improving one line at a time
 
 ## My Skill Set
 
-<div align="left">
+<div align="center">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
     <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
     <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
