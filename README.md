@@ -15,15 +15,14 @@ Improving one line at a time
 ## My Skill Set
 
 <div align="left">
-    <img src="https://github.com/user-attachments/assets/bd4f35c2-6de8-461d-8519-01c4908bfb75" alt="Java" height="50" />
-    <img src="https://github.com/user-attachments/assets/a2285dc9-e6cb-4f26-8262-0da428988d83" alt="HTML5" height="50" />
-    <img src="https://github.com/user-attachments/assets/e0c4b461-2a60-4da8-849b-cbd017e48976" alt="Python" height="50" />
-    <img src="https://github.com/user-attachments/assets/0fdd0cc4-94cc-4edb-8116-7d673efb2393" alt="CSS3" height="50" />
-    <img src="https://github.com/user-attachments/assets/c2759cdf-742d-4aa8-8813-6ef8373ec3b9" alt="C" height="50" />
-    <img src="https://github.com/user-attachments/assets/69b7643d-2b02-45ec-8b73-ecbfe2a60ba0" alt="MySQL" height="50" />
-    <img src="https://github.com/user-attachments/assets/4389e795-30a7-4b5e-a71d-ec7964f2b44a" alt="Figma" height="50" />
+    <img src="https://github.com/user-attachments/assets/56d53b10-3838-46e1-ae35-3b31be743532" alt="Java" height="150" />
+    <img src="https://github.com/user-attachments/assets/21e85135-3f93-4355-8ada-1b7f65758f16" alt="HTML5" height="150" />
+    <img src="https://github.com/user-attachments/assets/5b8c5749-80e0-4b78-882d-8d61837e850e" alt="Python" height="150" />
+    <img src="https://github.com/user-attachments/assets/b8feedd7-0d87-4099-960c-5f84e2ef4f2f" alt="CSS3" height="150" />
+    <img src="https://github.com/user-attachments/assets/1732ab0c-2481-48c7-a749-842d521bd4d0" alt="C" height="150" />
+    <img src="https://github.com/user-attachments/assets/85b7f960-4a4a-494e-95ac-66c93728c493" alt="MySQL" height="150" />
+    <img src="https://github.com/user-attachments/assets/9901d448-e0f3-418e-85f0-b33ed0a262f0" alt="Figma" height="150" />
 </div>
-
 
 <br>
 
