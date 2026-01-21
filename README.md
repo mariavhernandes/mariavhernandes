@@ -15,13 +15,13 @@ Improving one line at a time
 ## My Skill Set
 
 <div align="left">
-    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+    <img src="https://github.com/user-attachments/assets/bd4f35c2-6de8-461d-8519-01c4908bfb75" alt="Java" height="50" />
+    <img src="https://github.com/user-attachments/assets/a2285dc9-e6cb-4f26-8262-0da428988d83" alt="HTML5" height="50" />
+    <img src="https://github.com/user-attachments/assets/e0c4b461-2a60-4da8-849b-cbd017e48976" alt="Python" height="50" />
+    <img src="https://github.com/user-attachments/assets/0fdd0cc4-94cc-4edb-8116-7d673efb2393" alt="CSS3" height="50" />
+    <img src="https://github.com/user-attachments/assets/c2759cdf-742d-4aa8-8813-6ef8373ec3b9" alt="C" height="50" />
+    <img src="https://github.com/user-attachments/assets/69b7643d-2b02-45ec-8b73-ecbfe2a60ba0" alt="MySQL" height="50" />
+    <img src="https://github.com/user-attachments/assets/4389e795-30a7-4b5e-a71d-ec7964f2b44a" alt="Figma" height="50" />
 </div>
 
 
