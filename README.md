@@ -1,19 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=30&pause=1000&color=40a1ff&width=500&lines=Ol%C3%A1+Mundo%21" alt="Typing SVG" /></a>
 
-## About me
+## Sobre mim
 
-Studying Systems Analysis and Development <img src="https://github.com/user-attachments/assets/aa0d1ce7-da12-48fe-b9ba-c3f4c2969d55" align="right" data-canonical-src="https://github.com/user-attachments/assets/aa0d1ce7-da12-48fe-b9ba-c3f4c2969d55" style="width:312px; height:208px; display: inline-block;" data-target="animated-image.originalImage">
-<!--<img src="https://github.com/user-attachments/assets/45d63527-535a-4f85-9cd9-ce814e5adb80" align="right" data-canonical-src="https://github.com/user-attachments/assets/45d63527-535a-4f85-9cd9-ce814e5adb80" style="width:250px; height:250px; display: inline-block;" data-target="animated-image.originalImage">-->
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC Americana e formada como Técnica em Desenvolvimento de Sistemas. 
+Possuo inglês avançado e estou em constante evolução, aprimorando meus conhecimentos uma linha de código por vez. <!--<img src="https://github.com/user-attachments/assets/45d63527-535a-4f85-9cd9-ce814e5adb80" align="right" data-canonical-src="https://github.com/user-attachments/assets/45d63527-535a-4f85-9cd9-ce814e5adb80" style="width:250px; height:250px; display: inline-block;" data-target="animated-image.originalImage">-->
 
-FATEC Americana
-
-Systems Development Technician
-
-Advanced English Speaker
-
-Improving one line at a time
-
-## My Skill Set
+## Tecnologias e Ferramentas
+Estas são as tecnologias que fazem parte do meu processo de aprendizado:
 
 <div align="left">
     <img src="https://github.com/user-attachments/assets/ff0ee069-cfca-4c4c-9c89-d4902be2c18e" alt="Java" height="70" />
