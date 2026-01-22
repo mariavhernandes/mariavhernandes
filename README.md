@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=30&pause=1000&color=40a1ff&width=500&lines=Ol%C3%A1+Mundo%2C+eu+sou+a+Maria%21" alt="Typing SVG" />
-</a>
+</a> <img src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" align="right" data-canonical-src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" style="width:288px; height:64px; display: inline-block;" data-target="animated-image.originalImage">
 
 ## Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — FATEC Americana<img src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" align="right" data-canonical-src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" style="width:288px; height:64px; display: inline-block;" data-target="animated-image.originalImage">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — FATEC Americana
 
 🌍 Inglês avançado
 
