@@ -5,7 +5,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas — FATEC Americana
 
-🌍 Inglês avançado<!--<img src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" align="right" data-canonical-src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" style="width:288px; height:64px; display: inline-block;" data-target="animated-image.originalImage">--><img src="https://github.com/user-attachments/assets/d5cd79a2-c83d-4bc3-8a73-b218fb8c0ee6" align="right" data-canonical-src="https://github.com/user-attachments/assets/d5cd79a2-c83d-4bc3-8a73-b218fb8c0ee6" style="width:288px; height:64px; display: inline-block;" data-target="animated-image.originalImage">
+🌍 Inglês avançado<img src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" align="right" data-canonical-src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" style="width:288px; height:64px; display: inline-block;" data-target="animated-image.originalImage">
 
 💻 Aprimorando meus conhecimentos uma linha de código por vez
 
