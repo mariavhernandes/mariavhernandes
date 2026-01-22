@@ -3,11 +3,11 @@
 
 ## Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — FATEC Americana
+- Estudante de Análise e Desenvolvimento de Sistemas — FATEC Americana
 
-🌍 Inglês avançado<img src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" align="right" data-canonical-src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" style="width:288px; height:64px; display: inline-block;" data-target="animated-image.originalImage">
+- Inglês avançado<img src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" align="right" data-canonical-src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7" style="width:288px; height:64px; display: inline-block;" data-target="animated-image.originalImage">
 
-💻 Aprimorando meus conhecimentos uma linha de código por vez
+- Aprimorando meus conhecimentos uma linha de código por vez
 
 ## Tecnologias e Ferramentas
 Estas são as tecnologias que fazem parte do meu processo de aprendizado:
