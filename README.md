@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — FATEC Americana<img src="https://github.com/user-attachments/assets/ae9c117c-239e-4f24-a73c-ce8a6d66a7f3" align="right" data-canonical-src="https://github.com/user-attachments/assets/ae9c117c-239e-4f24-a73c-ce8a6d66a7f3" style="width:480px; height:106px; display: inline-block;" data-target="animated-image.originalImage">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — FATEC Americana<img src="https://github.com/user-attachments/assets/a054160e-4d17-410d-be18-20789dcc62e7" align="right" data-canonical-src="https://github.com/user-attachments/assets/a054160e-4d17-410d-be18-20789dcc62e7" style="width:480px; height:106px; display: inline-block;" data-target="animated-image.originalImage">
 
 🌍 Inglês avançado
 
