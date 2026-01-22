@@ -33,7 +33,7 @@ Estas são as tecnologias que fazem parte do meu processo de aprendizado:
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mariavhernandes&show_icons=true&theme=holi&locale=pt-br&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=mariavhernandes&show_icons=true&theme=holi&locale=pt-br" 
 />
 
 <img 
