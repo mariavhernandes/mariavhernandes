@@ -26,12 +26,13 @@ Estas são as tecnologias que fazem parte do meu processo de aprendizado:
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mariavhernandes&show_icons=true&theme=holi&locale=pt-br" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=mariavhernandes&show_icons=true&theme=holi&locale=pt-br&rank_icon=github" 
+/>
+
 
 <img 
       align="left" 
