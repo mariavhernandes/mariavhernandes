@@ -8,7 +8,7 @@
 ## Sobre mim
 
 - Estudante de Análise e Desenvolvimento de Sistemas — FATEC Americana  
-- Inglês avançado
+- Técnica em Desenvolvimento de Sistemas — Etec Polivalente de Americana
 <img src="https://github.com/user-attachments/assets/6ebddbc5-22d5-459d-9889-0c0419e8ebc7"
      align="right"
      style="width:288px; height:64px;" />
