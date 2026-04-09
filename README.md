@@ -29,19 +29,13 @@ Estas são as tecnologias que fazem parte do meu processo de aprendizado:
 </div>
 
 <br>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariavhernandes&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariavhernandes&theme=github-dark-blue" alt="GitHub Streak Stats" />
 </div>
 
 <br>
-
-<p align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariavhernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 
 <br><br>
 
