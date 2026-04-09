@@ -26,26 +26,13 @@ These are the technologies that are part of my learning journey:
 </div>
 
 <br>
+<br>
 
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mariavhernandes&show_icons=true&theme=holi&locale=en" 
-/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariavhernandes&theme=github-dark-blue" alt="GitHub Streak Stats" />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariavhernandes&theme=holi&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
-</p>
-
-<br><br>
+<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariavhernandes/mariavhernandes/output/github-contribution-grid-snake-dark.svg">
