@@ -32,7 +32,7 @@ Estas são as tecnologias que fazem parte do meu processo de aprendizado:
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariavhernandes&theme=github-dark-blue" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariavhernandes&theme=github-dark-blue&locale=pt_BR" alt="GitHub Streak Stats" />
 </div>
 
 <br>
